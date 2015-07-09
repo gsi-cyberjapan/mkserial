@@ -1,0 +1,2 @@
+# mkserial
+qdltcでダウンロードした地理院タイルをserialtilesファイルにまとめるスクリプト
